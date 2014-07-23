@@ -1,4 +1,4 @@
-swagger-ui-docker
+swagger-editor-docker
 =================
 
-docker vm for swagger-ui
+docker vm for swagger-editor
